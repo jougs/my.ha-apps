@@ -1,0 +1,11 @@
+name: "AppDaemon (jougs custom)"
+version: "latest"
+slug: "my.appdaemon"
+description: "AppDaemon with pymodbus, ruamel.yaml, and spotipy pre-installed"
+arch:
+  - amd64
+  - aarch64
+init: false
+options: {}
+schema: {}
+image: "ghcr.io/jougs/my.appdaemon"
